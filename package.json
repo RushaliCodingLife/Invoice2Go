@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "http://RushaliCodingLife.github.io/Invoice2Go", 
+    "homepage": "http://RushaliCodingLife.github.io/Invoice2Go-React", 
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.11.0",
